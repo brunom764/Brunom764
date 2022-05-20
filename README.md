@@ -1,11 +1,16 @@
 ## Bruno Moreira
 ### Hello, Devs!!
-<div class="tenor-gif-embed" data-postid="25328471" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/high-five-spider-man-spider-man-no-way-home-give-me-five-hanging-gif-25328471">High Five Spider Man Sticker</a>from <a href="https://tenor.com/search/high+five-stickers">High Five Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="25328471" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+            <a href="https://tenor.com/view/high-five-spider-man-spider-man-no-way-home-give-me-five-hanging-gif-25328471">High Five Spider Man Sticker</a>from <a href="https://tenor.com/search/high+five-stickers">High Five Stickers</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🌱 I’m currently studying at Alura
 - 📚 I'm attending college at UFPE's "Bacharelado em Sistemas de informação".
 
 ## Languages and tools:
+
+<div>
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
             
@@ -38,6 +43,8 @@
           
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"  />
+            
+ </div>
             
  ### Contatos:
 
