@@ -1,5 +1,6 @@
 ## Bruno Moreira
 ### Hello, Devs!!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>  
 
 - 🌱 I’m currently studying at Alura
 - 📚 I'm attending college at UFPE's "Bacharelado em Sistemas de informação".
