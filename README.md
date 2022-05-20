@@ -1,7 +1,6 @@
 ## Bruno Moreira
 ### Hello, Devs!!
 
-<div class="tenor-gif-embed" data-postid="14386279" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/sunglasses-badass-simba-spiderman-marvel-gif-14386279">Sunglasses Badass Sticker</a>from <a href="https://tenor.com/search/sunglasses-stickers">Sunglasses Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🌱 I’m currently studying at Alura
 - 📚 I'm attending college at UFPE's "Bacharelado em Sistemas de informação".
