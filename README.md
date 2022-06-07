@@ -2,8 +2,9 @@
 ### Hello, Devs!!
 
 
-- 🌱 I’m currently studying at Alura
-- 📚 I'm attending college at UFPE's "Bacharelado em Sistemas de informação".
+- 🌱 Estudo na Alura
+- 📚 Curso "Bacharelado em Sistemas de informação" na Universidade Federal de Pernambuco.
+- Meu portifólio: https://portifolio-rho-lyart.vercel.app/
 
 ## Languages and tools:
 
