@@ -3,7 +3,7 @@
 
 
 - 🎒 Estudo na Alura
-- 📚 Curso "Bacharelado em Sistemas de informação" na Universidade Federal de Pernambuco.
+- 🎓 Curso "Bacharelado em Sistemas de informação" na Universidade Federal de Pernambuco.
 - 💻 Meu portifólio: https://portifolio-rho-lyart.vercel.app/
 
 ## Languages and tools:
