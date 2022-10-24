@@ -19,8 +19,9 @@
            
 <div>
 <a href="https://github.com/brunom764">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunom764&theme=tokyonight"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunom764&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunom764&theme=dracula"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunom764&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunom764&theme=tokyonight&hide_border=true"/>
 </div>
 
 
