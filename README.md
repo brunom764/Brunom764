@@ -1,5 +1,5 @@
 ## Bruno Moreira
-### Hello, Devs!
+### Hi, Devs!
 
 
 - 🎓 Curso "Bacharelado em Sistemas de informação" na Universidade Federal de Pernambuco(CIn - UFPE).
