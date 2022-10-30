@@ -3,7 +3,7 @@
 
 
 - 🎓 Curso "Bacharelado em Sistemas de informação" na Universidade Federal de Pernambuco(CIn - UFPE).
-- 💻 Meu portifólio: https://portifolio-rho-lyart.vercel.app/
+- 💻 Veja meu portifólio: https://portifolio-rho-lyart.vercel.app/
 
 ## Linguagens e ferramentas:
 
