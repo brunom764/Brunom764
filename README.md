@@ -8,7 +8,7 @@
 
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css 3" src="https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-CC6699?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-CC6699?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-CC6699?style=flat-square&logo=styled-components&logoColor=white" />
 <img alt="javaScript" src="https://img.shields.io/badge/-javaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
@@ -26,7 +26,8 @@
   <a href = "mailto:brunom764@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
   <a href="https://www.linkedin.com/in/bruno-miguel-a08022239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-           
+
+## 
 <div>
 <a href="https://github.com/brunom764">
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunom764&theme=tokyonight"/> 
