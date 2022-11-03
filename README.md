@@ -3,8 +3,8 @@
 <p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently studying in <b>CIn, UFPE</b>. </p>
 
 
-- 🎓 Curso "Bacharelado em Sistemas de informação" na Universidade Federal de Pernambuco(CIn - UFPE).
-- 💻 Veja meu portifólio: https://portifolio-rho-lyart.vercel.app/
+- 🎓 I am an undergraduate student at "Systems of information manager" in Universidade Federal de Pernambuco(CIn - UFPE).
+- 💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
 ## Things I code with:
 
