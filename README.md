@@ -2,8 +2,6 @@
 
 <p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently studying in <b>CIn, UFPE</b>. </p>
 
-
-- 🎓 I am an undergraduate student at "Systems of information manager" in Universidade Federal de Pernambuco(CIn - UFPE).
 - 💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
 ## Things I code with:
