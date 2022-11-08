@@ -1,6 +1,6 @@
 ## Hi, devs!
 
-<p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently studying in <b>CIn, UFPE</b>. </p>
+<p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently undergraduate Student in <b> Systems of information(CIn - UFPE)</b>. </p>
 
 - 💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
