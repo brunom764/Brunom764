@@ -15,10 +15,11 @@
 <img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-007ACC?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" />
-<img alt="mySQL" src="https://img.shields.io/badge/-mySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />  <img alt="git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />                                                   <img alt="git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF0000?style=flat-square&logo=npm&logoColor=white" />
           
   
