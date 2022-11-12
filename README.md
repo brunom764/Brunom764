@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/brunom_42/" target="_blank"><img src="https://img.shields.io/badge/-instagram-008B8B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## 
+##  Github stats
 <div>
 <a href="https://github.com/brunom764">
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunom764&theme=tokyonight"/> 
