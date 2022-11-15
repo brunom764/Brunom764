@@ -27,7 +27,7 @@
   
  ### Contact:
  <div>
-  <a href = "mailto:brunom764@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
+  <a href = "mailto:brunom764@gmail.com"><img src="https://img.shields.io/badge/Gmail-F05032?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>      
   <a href="https://www.linkedin.com/in/bruno-miguel-a08022239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/brunom_42/" target="_blank"><img src="https://img.shields.io/badge/-instagram-008B8B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
