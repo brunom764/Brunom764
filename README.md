@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently undergraduate student in <b>information systems(CIn - UFPE)</b>. </p>
 
-- 💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
+ 💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
 ## Things I code with:
 
