@@ -24,6 +24,7 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />     <img alt="C#(C sharp)" src="https://img.shields.io/badge/-C Sharp-13aa52?style=flat-square&logo=csharp&logoColor=white" /> 
 <img alt="git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF0000?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF0000?style=flat-square&logo=yarn&logoColor=white" />
           
   
  ### Contact:
