@@ -18,7 +18,7 @@
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-008B8B?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-008B8B?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-Angular-008B8B?style=flat-square&logo=angular&logoColor=white" />
-<img alt="node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="C#(C sharp)" src="https://img.shields.io/badge/-C Sharp-13aa52?style=flat-square&logo=csharp&logoColor=white" /> 
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
