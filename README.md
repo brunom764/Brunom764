@@ -1,7 +1,7 @@
 ## Hi, devs!
 
 <p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently undergraduate student in <b>information systems(CIn - UFPE)</b>. </p>
-<p> Sou desenvolvedor front-end, estudando tecnologias back-end visando ser um desenvolvedor full-stack e com muito conhecimento em análise de dados, data science e machine learning. </p>
+<p> I'm frontend developer, studying backend tecnologies aiming to be a full-stack developer and with a lot of knowledge in data analysis, data science and machine learning. </p>
 
  💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
