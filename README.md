@@ -22,6 +22,7 @@
 <img alt="angular" src="https://img.shields.io/badge/-Angular-008B8B?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
+<img alt="SciPy" src="https://img.shields.io/badge/-SciPy-13aa52?style=flat-square&logo=scipy&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />                                                  <img alt="git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF0000?style=flat-square&logo=npm&logoColor=white" />
