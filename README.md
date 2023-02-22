@@ -15,7 +15,7 @@
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-be7abb?style=flat-square&logo=styled-components&logoColor=white" />
 <img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React JS-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React Native-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-008B8B?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-008B8B?style=flat-square&logo=next.js&logoColor=white" />
