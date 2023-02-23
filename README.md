@@ -13,12 +13,12 @@
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-be7abb?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-be7abb?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-be7abb?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React JS-007ACC?style=flat-square&logo=react&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React Native-007ACC?style=flat-square&logo=react&logoColor=white" />
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-008B8B?style=flat-square&logo=jQuery&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-008B8B?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-8a2be2?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8a2be2?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-8a2be2?style=flat-square&logo=jQuery&logoColor=white" />
+<img alt="React js" src="https://img.shields.io/badge/-React JS-007ACC?style=flat-square&logo=react&logoColor=white" />
+<img alt="React native" src="https://img.shields.io/badge/-React Native-007ACC?style=flat-square&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-007ACC?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-Angular JS-008B8B?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
