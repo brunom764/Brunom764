@@ -21,6 +21,7 @@
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-007ACC?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="angular" src="https://img.shields.io/badge/-Angular JS-008B8B?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
 <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-13aa52?style=flat-square&logo=scipy&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
