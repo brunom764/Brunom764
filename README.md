@@ -27,11 +27,11 @@
 <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-13aa52?style=flat-square&logo=scipy&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
-<img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF2010?style=flat-square&logo=ruby&logoColor=white" />
-<img alt="on rails" src="https://img.shields.io/badge/-Ruby on Rails-FF1010?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-npm-FF0000?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF0000?style=flat-square&logo=yarn&logoColor=white" />
+<img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="on rails" src="https://img.shields.io/badge/-Ruby on Rails-FF0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF6000?style=flat-square&logo=yarn&logoColor=white" />
           
 
 ### Github Stats:
