@@ -1,7 +1,10 @@
-### Hi, devs!!!
+## Hi, devs!!!
 
-<p>Welcome to my page! </br> I'm Bruno,  developer from <b>Olinda, Brazil</b>, currently undergraduate student in <b>information systems(CIn - UFPE)</b>. </p>
-<p> I'm frontend developer, studying backend tecnologies aiming to be a full-stack developer and with a lot of knowledge in data science and machine learning. </p>
+### About Me
+I am Bruno Moreira, a Brazilian student currently pursuing a bachelor's degree in Information Systems at the Center for Informatics at UFPE. 
+I live in Olinda, a beautiful historic city located in Pernambuco, Brazil.
+I am always looking for opportunities to improve my skills and expand my knowledge in software development.
+Apart from my studies, I work as a full-stack developer intern at Oper. 
 
  💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
