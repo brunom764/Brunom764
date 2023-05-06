@@ -22,7 +22,6 @@ Apart from my studies, I work as a full-stack developer intern at Oper.
 <img alt="React js" src="https://img.shields.io/badge/-React JS-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="React native" src="https://img.shields.io/badge/-React Native-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-007ACC?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/-Angular JS-007ACC?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express js" src="https://img.shields.io/badge/-Express-008B8B?style=flat-square&logo=express&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white" />
