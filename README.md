@@ -16,6 +16,7 @@ Apart from my studies, I work as a full-stack developer intern at Oper.
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-be7abb?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-be7abb?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-be7abb?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="chakraUI" src="https://img.shields.io/badge/-ChakraUI-be7abb?style=flat-square&logo=chakraUI&logoColor=white" />
 <img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-8a2be2?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8a2be2?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-8a2be2?style=flat-square&logo=jQuery&logoColor=white" />
@@ -27,7 +28,6 @@ Apart from my studies, I work as a full-stack developer intern at Oper.
 <img alt="Nest" src="https://img.shields.io/badge/-Nest-008B8B?style=flat-square&logo=nestJs&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
-<img alt="SciPy" src="https://img.shields.io/badge/-SciPy-13aa52?style=flat-square&logo=scipy&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
 <img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
