@@ -4,7 +4,7 @@
 I am Bruno Moreira, a Brazilian student currently pursuing a bachelor's degree in Information Systems at the Center for Informatics at UFPE. 
 I live in Olinda, a beautiful historic city located in Pernambuco, Brazil.
 I am always looking for opportunities to improve my skills and expand my knowledge in software development.
-Apart from my studies, I work as a full-stack developer intern at Oper. 
+Apart from my studies, I work as a full-stack developer at Oper. 
 
  💻 My portfolio: https://portifolio-rho-lyart.vercel.app/
 
