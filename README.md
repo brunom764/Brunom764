@@ -15,14 +15,13 @@ Apart from my studies, I work as a full-stack developer at Oper.
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-be7abb?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-be7abb?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-be7abb?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-be7abb?style=flat-square&logo=styled-components&logoColor=white" />
 <img alt="chakraUI" src="https://img.shields.io/badge/-ChakraUI-be7abb?style=flat-square&logo=chakraUI&logoColor=white" />
 <img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-8a2be2?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8a2be2?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-8a2be2?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="React js" src="https://img.shields.io/badge/-React JS-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="React native" src="https://img.shields.io/badge/-React Native-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-007ACC?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="react-query" src="https://img.shields.io/badge/-React Query-007ACC?style=flat-square&logo=react-query&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express js" src="https://img.shields.io/badge/-Express-008B8B?style=flat-square&logo=express&logoColor=white" />
 <img alt="Nest" src="https://img.shields.io/badge/-Nest-008B8B?style=flat-square&logo=nestJs&logoColor=white" />
@@ -31,6 +30,9 @@ Apart from my studies, I work as a full-stack developer at Oper.
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
 <img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="docker" src="https://img.shields.io/badge/-Docker-FF0000?style=flat-square&logo=docker&logoColor=white" />
+<img alt="firebase" src="https://img.shields.io/badge/-Firebase-FF0000?style=flat-square&logo=firebase&logoColor=white" />
+<img alt="azure" src="https://img.shields.io/badge/-Azure-FF0000?style=flat-square&logo=azure&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-FF6000?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-FF6000?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-FF6000?style=flat-square&logo=yarn&logoColor=white" />
