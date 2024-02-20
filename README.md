@@ -12,7 +12,6 @@ Apart from my studies, I work as a full-stack developer at Oper.
 
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="css 3" src="https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-be7abb?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-be7abb?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-be7abb?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="chakraUI" src="https://img.shields.io/badge/-ChakraUI-be7abb?style=flat-square&logo=chakraUI&logoColor=white" />
@@ -30,6 +29,7 @@ Apart from my studies, I work as a full-stack developer at Oper.
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
+ <img alt="mongo db" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
 <img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
 <img alt="docker" src="https://img.shields.io/badge/-Docker-FF0000?style=flat-square&logo=docker&logoColor=white" />
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FF0000?style=flat-square&logo=firebase&logoColor=white" />
