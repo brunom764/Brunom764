@@ -15,6 +15,7 @@ My name is Bruno Moreira, I am an experienced Full-Stack developer, capable of b
 <img alt="React js" src="https://img.shields.io/badge/-React JS-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="React native" src="https://img.shields.io/badge/-React Native-007ACC?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-007ACC?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="vue js" src="https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="react-query" src="https://img.shields.io/badge/-React Query-007ACC?style=flat-square&logo=react-query&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-008B8B?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express js" src="https://img.shields.io/badge/-Express-008B8B?style=flat-square&logo=express&logoColor=white" />
