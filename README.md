@@ -23,8 +23,7 @@ My name is Bruno Moreira, I am an experienced Full-Stack developer, capable of b
 <img alt="prisma" src="https://img.shields.io/badge/-prisma-008B8B?style=flat-square&logo=prisma&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" /> 
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-13aa52?style=flat-square&logo=jupyter&logoColor=white" />                                    <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" /> 
+<img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" />                                    <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=postgresql&logoColor=white" /> 
  <img alt="mongo db" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
 <img alt="ruby" src="https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby&logoColor=white" />
 <img alt="docker" src="https://img.shields.io/badge/-Docker-FF0000?style=flat-square&logo=docker&logoColor=white" />
