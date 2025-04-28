@@ -20,7 +20,6 @@ My name is Bruno Moreira, I am an experienced Full-Stack developer, capable of b
 <img alt="prisma" src="https://img.shields.io/badge/-prisma-008B8B?style=flat-square&logo=prisma&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-008B8B?style=flat-square&logo=jest&logoColor=white" />
 <img alt="django" src="https://img.shields.io/badge/-django-008B8B?style=flat-square&logo=django&logoColor=white" />
-<img alt="fastAPI" src="https://img.shields.io/badge/-fastAPI-008B8B?style=flat-square&logo=fastapi&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-13aa52?style=flat-square&logo=pandas&logoColor=white" />                                    <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=postgresql&logoColor=white" /> 
  <img alt="mongo db" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> 
